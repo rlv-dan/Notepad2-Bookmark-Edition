@@ -14,6 +14,4 @@ Notepad2 is a light-weight, free and open source Notepad-like text editor with s
 * Find/Replace dialog will automatically be filled with clipboard content first time used
 * See readme for a more detailed look at the changes 
 
-## Screenshot
-
 <img src="http://www.rlvision.com/notepad2/screenshot.png">
