@@ -1,7 +1,7 @@
 Notepad2 Bookmark Edition
 =========================
 
-Notepad2 is a light-weight, free and open source Notepad-like text editor with syntax highlighting, originally created by [Florian Balmer](http://www.flos-freeware.ch/notepad2.html). *Bookmark Edition* is a port with extra features. Windows binaries are available from my homepage: http://rlvision.com/notepad2/about.asp
+Notepad2 is a light-weight, free and open source Notepad-like text editor with syntax highlighting, originally created by [Florian Balmer](http://www.flos-freeware.ch/notepad2.html). *Bookmark Edition* is a port with extra features. Windows binaries are available from my [homepage](http://rlvision.com/notepad2/about.asp)
 
 ## Bookmark Edition Features
 
